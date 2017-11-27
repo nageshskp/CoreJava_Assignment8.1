@@ -1,0 +1,4 @@
+Hello,
+
+Trying to copy these contents to output file
+Lets check this as Example to Demonstrate the Example of copying a file
